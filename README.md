@@ -1,4 +1,5 @@
-# 🌟 Developer Profile Highlights
+# Hi Hi 👋, I'm Praveen Kumar
+Java Full Stack Developer | Software Engineer Aspirant
 
 <div align="center">
 
