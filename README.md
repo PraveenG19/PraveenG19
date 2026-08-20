@@ -1,161 +1,243 @@
-# <div align="center">Hi 👋, I'm Praveen Kumar</div>
+<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 
-<div align="center">
-
-### 🚀 Java Full Stack Developer | Software Engineer Aspirant
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Software+Engineer+in+Progress;Open+to+Work;Always+Learning+New+Technologies" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Information Science & Engineering Graduate
-
-💼 Java Full Stack Intern at KodNest
-
-🌱 Learning Spring Boot, REST APIs and React
-
-🚀 Passionate about Software Development
-
-🎯 Looking for Software Engineer & Java Developer Roles
-
-📍 Bengaluru, Karnataka, India
-
----
-
-## 🌐 Connect With Me
+<h3 align="center">
+🚀 Java Full Stack Developer | Spring Boot Enthusiast | AI & ML Learner
+</h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;AI+Trading+Bot+Developer;Smart+Management+System+Developer;Building+Scalable+Applications" />
+</p>
+
+---
+
+# 🌟 Portfolio
+
+🌐 **Portfolio Website**
+
+https://praveen-portfolio-red-theta.vercel.app/
+
+---
+
+# 👨‍💻 About Me
+
+🔹 Java Full Stack Developer
+
+🔹 Spring Boot & REST API Developer
+
+🔹 Passionate about Backend Development
+
+🔹 Interested in AI & Machine Learning
+
+🔹 Building Scalable Web Applications
+
+🔹 Continuous Learner and Problem Solver
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://github.com/PraveenG19">
-<img src="https://img.shields.io/badge/GitHub-PraveenG19-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://instagram.com/praveen__g19">
-<img src="https://img.shields.io/badge/Instagram-praveen__g19-E4405F?style=for-the-badge&logo=instagram">
+<a href="https://www.linkedin.com/in/praveen-g-645110269">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.instagram.com/praveen__g19">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
 </a>
 
 <a href="mailto:praveenk8203@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-praveenk8203@gmail.com-D14836?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
 </a>
+
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## ⚡ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
+
+## 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+---
+
+## 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+# 🔥 Featured Projects
+
+## 🤖 AI Driven Trading Bot for Intelligent Decision Making
+
+AI-powered stock trading platform using Machine Learning and Reinforcement Learning.
+
+### Features
+
+✔ Stock Prediction
+
+✔ Trading Signals
+
+✔ Portfolio Analytics
+
+✔ Technical Indicators
+
+✔ Market Trend Analysis
+
+✔ Intelligent Decision Support
+
+### Tech Stack
+
+Java • Spring Boot • Python • Machine Learning • Reinforcement Learning • MySQL
+
+---
+
+## 🏢 Smart Management System
+
+A complete management platform for handling users, records, and business operations.
+
+### Features
+
+✔ User Authentication
+
+✔ Dashboard Analytics
+
+✔ Record Management
+
+✔ Report Generation
+
+✔ Role-Based Access Control
+
+✔ Database Integration
+
+### Tech Stack
+
+Java • Spring Boot • MySQL • HTML • CSS • JavaScript
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Modern developer portfolio showcasing:
+
+✔ Skills & Experience
+
+✔ Projects
+
+✔ Resume Download
+
+✔ GitHub Integration
+
+✔ LinkedIn & Instagram Links
+
+✔ Responsive Design
+
+### Live Demo
+
+https://praveen-portfolio-red-theta.vercel.app/
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,eclipse,idea" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PraveenG19&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenG19&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenG19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenG19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=PraveenG19&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=PraveenG19&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PraveenG19&theme=tokyonight&row=1&column=7"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PraveenG19&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenG19&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Current Focus
 
-### 🤖 AI Driven Trading Bot for Intelligent Decision Making
+🔹 Java Full Stack Development
 
-* Machine Learning based stock market prediction
-* Reinforcement Learning concepts
-* Portfolio management
-* Trading signal generation
+🔹 Spring Boot Microservices
 
-### 🌱 Smart Agriculture Monitoring System
+🔹 REST API Development
 
-* IoT based smart farming solution
-* Soil moisture monitoring
-* Temperature & humidity tracking
-* Automated farmer alerts
+🔹 AI & Machine Learning
+
+🔹 Open Source Learning
 
 ---
 
-## 💻 Coding Skills
+# 💡 Quote
 
-```text
-Java            ████████████████████████ 90%
-Spring Boot     ████████████████████     80%
-MySQL           ██████████████████       75%
-HTML/CSS        █████████████████████    85%
-JavaScript      ███████████████          70%
-Git & GitHub    ███████████████████      80%
-```
+> "Code. Build. Learn. Repeat."
 
 ---
 
-## 📜 Certifications
-
-🏅 Java Full Stack Development – KodNest
-
-🏅 Java Programming Certifications
-
-🏅 Web Development Certifications
-
-🏅 Software Development Training
-
----
-
-## 🎯 Goals for 2026
-
-* [ ] Get Software Engineer Role
-* [ ] Master Spring Boot
-* [ ] Learn Microservices
-* [ ] Build 10+ Full Stack Projects
-* [ ] Contribute to Open Source
-* [ ] Reach 1000+ GitHub Contributions
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PraveenG19&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-## 💬 Quote
-
-<div align="center">
-
-### "Code. Learn. Build. Repeat."
-
+<h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
-
-</div>
-
-
+</h3>
