@@ -1,276 +1,115 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Praveen+Kumar;🚀+Java+Full+Stack+Developer;⚡+Spring+Boot+Developer;🤖+AI+Trading+Bot+Developer;💻+Building+Scalable+Applications" />
-</p>
+# 🦇 Praveen Kumar
 
-<h1 align="center">🦇 PRAVEEN KUMAR 🦇</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Java Full Stack Developer | Spring Boot Enthusiast | AI & ML Learner
-</h3>
+Java Full Stack Developer • Spring Boot • MySQL • React
 
-<p align="center">
-
-<a href="https://github.com/PraveenG19">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/praveen-g-645110269">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://www.instagram.com/praveen__g19">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-</a>
-
-<a href="mailto:praveenk8203@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PraveenG19&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-# 🌟 Portfolio
+## 🚀 Developer Dashboard
 
-### 🌐 Live Portfolio
-
-👉 https://praveen-portfolio-red-theta.vercel.app/
-
----
-
-# 👨‍💻 About Me
-
-```java
-public class PraveenKumar {
-
-    String role = "Java Full Stack Developer";
-    String company = "KodNest Technologies";
-    String location = "Bengaluru, India";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "MySQL",
-        "React",
-        "HTML",
-        "CSS",
-        "JavaScript"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "AI & Machine Learning",
-        "System Design",
-        "Software Engineering"
-    };
-}
-```
+| Category | Status |
+|-----------|----------|
+| Java | ██████████ 95% |
+| Spring Boot | █████████ 90% |
+| MySQL | ████████ 85% |
+| React | ████████ 80% |
+| JavaScript | ████████ 80% |
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Current Mission
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,js,git,github,vscode,postman" />
-</p>
+🎯 Become Software Engineer
+
+🎯 Master Spring Boot
+
+🎯 Build AI Applications
+
+🎯 Contribute to Open Source
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 AI Driven Trading Bot
-
-### Features
-
-✅ AI Market Prediction
-
-✅ Trading Signals
-
-✅ Portfolio Analytics
-
-✅ Technical Indicators
-
-✅ Reinforcement Learning
-
-✅ Real-time Dashboard
-
-### Tech Stack
+## 🏢 Experience
 
 ```text
-Java
-Spring Boot
-Python
-Machine Learning
-Reinforcement Learning
-MySQL
-HTML
-CSS
-JavaScript
+KodNest Technologies
+Java Full Stack Intern
+2025 - Present
 ```
 
 ---
 
-## 🏢 Smart Management System
+## 🤖 Featured Projects
 
-### Features
-
-✅ User Authentication
-
-✅ Role-Based Access
-
-✅ Dashboard Analytics
-
-✅ Record Management
-
-✅ Report Generation
-
-✅ Database Integration
-
-### Tech Stack
+### AI Driven Trading Bot
 
 ```text
-Java
-Spring Boot
-MySQL
-HTML
-CSS
-JavaScript
+📈 Market Prediction
+📊 Portfolio Analytics
+🧠 Machine Learning
+⚡ Trading Signals
 ```
 
 ---
 
-## 🌐 Personal Portfolio Website
+### Smart Management System
 
-### Features
-
-✅ Batman Inspired Theme
-
-✅ Modern UI/UX
-
-✅ Responsive Design
-
-✅ Resume Download
-
-✅ Social Media Integration
-
-✅ Project Showcase
-
-### Live Demo
-
-👉 https://praveen-portfolio-red-theta.vercel.app/
+```text
+👤 User Management
+📋 Dashboard
+🔐 Authentication
+📊 Reports
+```
 
 ---
 
-# 📊 GitHub Statistics
+### 🌐 Portfolio Website
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenG19&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenG19&layout=compact&theme=tokyonight"/>
-
-</p>
+```text
+🎨 Modern UI
+📱 Responsive
+🚀 Vercel Deployment
+```
 
 ---
 
-# 🔥 GitHub Streak
+## 🛠 Tech Arsenal
 
-<p align="center">
+🔹 Java
 
-<img src="https://streak-stats.demolab.com?user=PraveenG19&theme=tokyonight"/>
+🔹 Spring Boot
 
-</p>
+🔹 MySQL
 
----
+🔹 HTML
 
-# 🏆 GitHub Trophies
+🔹 CSS
 
-<p align="center">
+🔹 JavaScript
 
-<img src="https://github-profile-trophy.vercel.app/?username=PraveenG19&theme=tokyonight&row=1&column=7"/>
+🔹 React
 
-</p>
+🔹 Git
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenG19&theme=tokyo-night"/>
-
-</p>
+🔹 GitHub
 
 ---
 
-# 🎯 Current Focus
+## 🌍 Connect
 
-🚀 Java Full Stack Development
+💻 GitHub: github.com/PraveenG19
 
-🚀 Spring Boot Microservices
+🔗 LinkedIn: linkedin.com/in/praveen-g-645110269
 
-🚀 REST API Development
+📸 Instagram: @praveen__g19
 
-🚀 AI & Machine Learning
-
-🚀 Open Source Contributions
-
-🚀 Software Engineering
+📧 Email: praveenk8203@gmail.com
 
 ---
 
-# 🏅 Achievements
+## 💡 Quote
 
-✅ Java Full Stack Intern @ KodNest Technologies
-
-✅ Developed AI Driven Trading Bot
-
-✅ Built Smart Management System
-
-✅ Created Personal Portfolio Website
-
-✅ Learning Advanced Spring Boot
-
----
-
-# 💡 Quote
-
-> "Code. Build. Learn. Repeat."
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/PraveenG19">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/praveen-g-645110269">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://www.instagram.com/praveen__g19">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-</a>
-
-<a href="mailto:praveenk8203@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
----
-
-<h2 align="center">
-🚀 Open To Work | Java Full Stack Developer 🚀
-</h2>
-
-<h3 align="center">
-⭐ Thanks For Visiting My Profile ⭐
-</h3>
+> Build. Learn. Improve. Repeat.
