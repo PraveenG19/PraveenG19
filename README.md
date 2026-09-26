@@ -1,14 +1,12 @@
-<p align="center">
-<img src="./https://drive.google.com/file/d/1Rn9Pw9hM6d3WNfOk5M7xP2KHhUbDRNhQ/view?usp=drivesdk" width="180" />
-</p>
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/PraveenG19/PraveenG19/main/profile.jpg" width="180" alt="S Praveen Kumar"/>
 
 # 🚀 S Praveen Kumar
 
 ### Java Full Stack Developer | Spring Boot | React.js | Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;2026+Information+Science+Graduate;Open+to+Software+Engineer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;2026+Information+Science+Graduate;Open+to+Software+Engineer+Roles"/>
 
 </div>
 
@@ -26,7 +24,7 @@
 
 🤖 Interested in AI, Machine Learning & Backend Engineering
 
-🎯 Looking for Software Engineer / Java Developer Opportunities
+🎯 Looking for Software Engineer Opportunities
 
 📧 Email: **praveenk8203@gmail.com**
 
@@ -59,9 +57,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,git,github,postman,vscode,idea"/>
-
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,git,github,postman,vscode,idea" />
 </p>
 
 ---
@@ -70,15 +66,15 @@
 
 ### Java Full Stack Intern | KodNest Technologies Pvt Ltd
 
-✔ Developed full-stack web applications using Java, Spring Boot & MySQL
+✔ Developed full-stack applications using Java, Spring Boot and MySQL
 
-✔ Built REST APIs and CRUD functionalities
+✔ Built REST APIs and CRUD modules
 
 ✔ Designed normalized database schemas
 
-✔ Worked with Git & GitHub for version control
+✔ Used Git & GitHub for version control
 
-✔ Participated in debugging and code reviews
+✔ Participated in testing, debugging and code reviews
 
 ---
 
@@ -89,18 +85,26 @@
 - Spring Boot Backend
 - React.js Frontend
 - JWT Authentication
-- Role-Based Authorization
+- Role-Based Access Control
 - Resume Upload System
 - Application Tracking
 - Recruiter Dashboard
 
+🔗 Repository:
+https://github.com/PraveenG19
+
+---
+
 ### 📈 AI-Driven Stock Trading Bot Using ML & RL
 
-- Machine Learning Models
+- Machine Learning Predictions
 - Reinforcement Learning
 - Buy/Sell Signal Generation
 - Historical Backtesting
 - Analytics Dashboard
+
+🔗 Repository:
+https://github.com/PraveenG19
 
 ---
 
@@ -124,7 +128,7 @@ B.E Information Science & Engineering
 
 CGPA: **7.5**
 
-Expected Graduation: **2026**
+Graduation Year: **2026**
 
 ---
 
@@ -141,7 +145,7 @@ Expected Graduation: **2026**
 ## 🎯 Current Focus
 
 - Spring Boot Advanced Concepts
-- Microservices Architecture
+- Microservices
 - Data Structures & Algorithms
 - System Design
 - SQL Optimization
@@ -154,10 +158,18 @@ Expected Graduation: **2026**
 
 ---
 
+## 📈 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PraveenG19&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PraveenG19&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 ### ⭐ Thanks For Visiting My Profile ⭐
+
+### 🚀 Always Learning • Always Building • Always Improving
 
 </div>
