@@ -1,140 +1,129 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PraveenG19/PraveenG19/main/profile.jpg" width="180" alt="S Praveen Kumar"/>
+<img width="100%" src="https://drive.google.com/file/d/1Rn9Pw9hM6d3WNfOk5M7xP2KHhUbDRNhQ/view?usp=drivesdk"/>
 
-# 🚀 S Praveen Kumar
+# Hi 👋 I'm S Praveen Kumar
 
-### Java Full Stack Developer | Spring Boot | React.js | Software Engineer
+### 🚀 Java Full Stack Developer | Spring Boot | React.js
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;2026+Information+Science+Graduate;Open+to+Software+Engineer+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;Open+To+Software+Engineer+Roles" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 B.E Information Science & Engineering (2026)
+```java
+public class PraveenKumar {
 
-💼 Java Full Stack Intern @ KodNest Technologies Pvt Ltd
+    String role = "Java Full Stack Developer";
+    String location = "Bengaluru, India";
 
-📍 Bengaluru, Karnataka, India
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "MySQL",
+        "REST APIs"
+    };
 
-🌱 Learning Spring Boot, Microservices & System Design
-
-🤖 Interested in AI, Machine Learning & Backend Engineering
-
-🎯 Looking for Software Engineer Opportunities
-
-📧 Email: **praveenk8203@gmail.com**
+    String currentGoal =
+        "Become a Software Engineer at a Product Company";
+}
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/PraveenG19">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://linkedin.com/in/praveen-g-645110269">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/PraveenG19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://praveen-portfolio-red-theta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:praveenk8203@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
 
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,git,github,postman,vscode,idea" />
-</p>
-
----
-
-## 💼 Experience
-
-### Java Full Stack Intern | KodNest Technologies Pvt Ltd
-
-✔ Developed full-stack applications using Java, Spring Boot and MySQL
-
-✔ Built REST APIs and CRUD modules
-
-✔ Designed normalized database schemas
-
-✔ Used Git & GitHub for version control
-
-✔ Participated in testing, debugging and code reviews
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Job Portal Using Spring Boot & React
-
-- Spring Boot Backend
-- React.js Frontend
-- JWT Authentication
-- Role-Based Access Control
-- Resume Upload System
-- Application Tracking
-- Recruiter Dashboard
-
-🔗 Repository:
-https://github.com/PraveenG19
-
----
-
-### 📈 AI-Driven Stock Trading Bot Using ML & RL
-
-- Machine Learning Predictions
-- Reinforcement Learning
-- Buy/Sell Signal Generation
-- Historical Backtesting
-- Analytics Dashboard
-
-🔗 Repository:
-https://github.com/PraveenG19
-
----
-
-## 📊 GitHub Statistics
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PraveenG19&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenG19&layout=compact&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,git,github,postman,vscode,idea"/>
 
 </p>
 
 ---
 
-## 🎓 Education
+# 🚀 Featured Projects
 
-**The Oxford College of Engineering**
+## 🤖 AI-Powered Job Portal
 
-B.E Information Science & Engineering
+✔ Spring Boot
 
-CGPA: **7.5**
+✔ React.js
 
-Graduation Year: **2026**
+✔ JWT Authentication
+
+✔ Resume Upload
+
+✔ Application Tracking
+
+✔ Recruiter Dashboard
 
 ---
 
-## 📜 Certifications
+## 📈 AI-Driven Stock Trading Bot
 
-🏅 Java Full Stack Development – KodNest Technologies
+✔ Machine Learning
+
+✔ Reinforcement Learning
+
+✔ Trading Signals
+
+✔ Historical Backtesting
+
+✔ Analytics Dashboard
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PraveenG19&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenG19&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+🎓 B.E Information Science & Engineering
+
+🏫 The Oxford College of Engineering
+
+📅 2022 – 2026
+
+📊 CGPA: 7.5
+
+---
+
+# 🏆 Certifications
+
+🏅 Java Full Stack Development – KodNest
 
 🏅 JavaScript for Beginners – Udemy
 
@@ -142,34 +131,24 @@ Graduation Year: **2026**
 
 ---
 
-## 🎯 Current Focus
+# 🎯 2026 Goals
 
-- Spring Boot Advanced Concepts
-- Microservices
-- Data Structures & Algorithms
-- System Design
-- SQL Optimization
+✅ Master Spring Boot
 
----
+✅ Learn Microservices
 
-## 💡 Quote
+✅ Strengthen DSA
 
-> "First, solve the problem. Then, write the code."
+✅ Build SaaS Projects
 
----
-
-## 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PraveenG19&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+✅ Secure Software Engineer Role
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks For Visiting My Profile ⭐
+<img src="https://komarev.com/ghpvc/?username=PraveenG19&style=for-the-badge"/>
 
-### 🚀 Always Learning • Always Building • Always Improving
+### ⭐ Thanks for visiting my profile ⭐
 
 </div>
