@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0077B5,100:00D9FF&text=S%20Praveen%20Kumar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Profile Banner"/>
+<img src="" width="100%" alt="Profile Banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Backend+Development+Enthusiast;Building+Real-World+Projects;Always+Learning+and+Growing" alt="Typing SVG"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=PraveenG19&style=for-the-badge&color=0077B5" alt="Profile Views"/>
+  <img src="https://drive.google.com/file/d/1Rn9Pw9hM6d3WNfOk5M7xP2KHhUbDRNhQ/view?usp=drivesdk" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/PraveenG19?style=for-the-badge&color=7C3AED&logo=github" alt="GitHub Followers"/>
 </p>
 
