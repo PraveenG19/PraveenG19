@@ -1,154 +1,61 @@
 <div align="center">
 
-<img width="100%" src="https://drive.google.com/file/d/1Rn9Pw9hM6d3WNfOk5M7xP2KHhUbDRNhQ/view?usp=drivesdk"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0077B5,100:00D9FF&text=S%20Praveen%20Kumar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Profile Banner"/>
 
-# Hi 👋 I'm S Praveen Kumar
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Backend+Development+Enthusiast;Building+Real-World+Projects;Always+Learning+and+Growing" alt="Typing SVG"/>
 
-### 🚀 Java Full Stack Developer | Spring Boot | React.js
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PraveenG19&style=for-the-badge&color=0077B5" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/PraveenG19?style=for-the-badge&color=7C3AED&logo=github" alt="GitHub Followers"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;Open+To+Software+Engineer+Roles" />
+<a href="https://github.com/PraveenG19?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Projects"/>
+</a>
+<a href="https://praveen-portfolio-red-theta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/praveen-g-645110269">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
+
+Hello! I'm **S Praveen Kumar**, an aspiring Software Engineer and Java Full Stack Developer from Bengaluru, India.
+
+- 🎓 B.E. in Information Science and Engineering — 2026 graduate
+- ☕ Interested in Java, Spring Boot, REST APIs, and backend development
+- 🌐 Exploring React.js and modern frontend technologies
+- 🗄️ Working with MySQL and relational databases
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Passionate about developing practical software projects
+- 🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
 
 ```java
 public class PraveenKumar {
 
+    String name = "S Praveen Kumar";
     String role = "Java Full Stack Developer";
     String location = "Bengaluru, India";
 
     String[] skills = {
         "Java",
         "Spring Boot",
-        "React",
+        "React.js",
+        "JavaScript",
         "MySQL",
         "REST APIs"
     };
 
-    String currentGoal =
-        "Become a Software Engineer at a Product Company";
+    String mindset = "Learn. Build. Improve. Repeat.";
+
+    public void currentGoal() {
+        System.out.println(
+            "Building reliable software and growing as an engineer!"
+        );
+    }
 }
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/praveen-g-645110269">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/PraveenG19">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://praveen-portfolio-red-theta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mysql,git,github,postman,vscode,idea"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI-Powered Job Portal
-
-✔ Spring Boot
-
-✔ React.js
-
-✔ JWT Authentication
-
-✔ Resume Upload
-
-✔ Application Tracking
-
-✔ Recruiter Dashboard
-
----
-
-## 📈 AI-Driven Stock Trading Bot
-
-✔ Machine Learning
-
-✔ Reinforcement Learning
-
-✔ Trading Signals
-
-✔ Historical Backtesting
-
-✔ Analytics Dashboard
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PraveenG19&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenG19&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎓 Education
-
-🎓 B.E Information Science & Engineering
-
-🏫 The Oxford College of Engineering
-
-📅 2022 – 2026
-
-📊 CGPA: 7.5
-
----
-
-# 🏆 Certifications
-
-🏅 Java Full Stack Development – KodNest
-
-🏅 JavaScript for Beginners – Udemy
-
-🏅 AI Tools Workshop – be10x
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Spring Boot
-
-✅ Learn Microservices
-
-✅ Strengthen DSA
-
-✅ Build SaaS Projects
-
-✅ Secure Software Engineer Role
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PraveenG19&style=for-the-badge"/>
-
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
